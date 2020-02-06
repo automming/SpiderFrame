@@ -1,0 +1,213 @@
+2017-07-11 13:04:05,549 [main] INFO TestCase03 - true | Set Page load time out
+2017-07-11 13:04:06,047 [main] INFO TestCase03 - true | Set Implicit wait for web elements
+2017-07-11 13:04:08,495 [main] INFO TestCase03 - true | Open 'NewTours' site
+2017-07-11 13:04:10,214 [main] INFO TestCase03 - true | Maximize the screen
+2017-07-11 13:04:12,900 [main] INFO TestCase03 - true | Click on Register
+2017-07-11 13:04:13,957 [main] INFO TestCase03 - true | Add First Name
+2017-07-11 13:04:14,834 [main] INFO TestCase03 - true | Add Last Name
+2017-07-11 13:04:15,638 [main] INFO TestCase03 - true | Add Phone Number
+2017-07-11 13:04:16,557 [main] INFO TestCase03 - true | Add Email Address
+2017-07-11 13:04:17,475 [main] INFO TestCase03 - true | Add Address Line 1
+2017-07-11 13:04:18,327 [main] INFO TestCase03 - true | Add Address Line 2
+2017-07-11 13:04:19,310 [main] INFO TestCase03 - true | Add City
+2017-07-11 13:04:20,048 [main] INFO TestCase03 - true | Add State
+2017-07-11 13:04:21,201 [main] INFO TestCase03 - true | Add PostalCode
+2017-07-11 13:04:22,543 [main] INFO TestCase03 - true | Select a country
+2017-07-11 13:04:23,006 [main] INFO TestCase03 - true | Capture Registration page screen
+2017-07-11 13:04:31,202 [main] INFO TestCase02 - true | Set Page load time out
+2017-07-11 13:04:31,516 [main] INFO TestCase02 - true | Set Implicit wait for web elements
+2017-07-11 13:04:39,110 [main] INFO TestCase02 - true | Open Demo QA Store
+2017-07-11 13:04:40,768 [main] INFO TestCase02 - true | Maximize the screen
+2017-07-11 13:04:44,838 [main] INFO TestCase02 - true | Click 'My Account'
+2017-07-11 13:04:48,244 [main] INFO TestCase02 - true | Click 'Register' to register
+2017-07-11 13:04:49,020 [main] INFO TestCase02 - true | Give 'Username'
+2017-07-11 13:04:50,018 [main] INFO TestCase02 - true | Give an 'Email Address'
+2017-07-11 13:04:51,037 [main] INFO TestCase02 - true | Enter Captcha
+2017-07-11 13:04:55,097 [main] INFO TestCase02 - true | Click to go back to Demo QA Home
+2017-07-11 13:04:55,543 [main] INFO TestCase02 - true | Capture Screen
+2017-07-11 13:05:22,872 [main] INFO TestCase02 - true | Set Page load time out
+2017-07-11 13:05:23,550 [main] INFO TestCase02 - true | Set Implicit wait for web elements
+2017-07-11 13:05:29,982 [main] INFO TestCase02 - true | Open Demo QA Store
+2017-07-11 13:05:30,414 [main] INFO TestCase02 - true | Maximize the screen
+2017-07-11 13:05:35,165 [main] INFO TestCase02 - true | Click 'My Account'
+2017-07-11 13:05:39,907 [main] INFO TestCase02 - true | Click 'Register' to register
+2017-07-11 13:05:40,850 [main] INFO TestCase02 - true | Give 'Username'
+2017-07-11 13:05:41,646 [main] INFO TestCase02 - true | Give an 'Email Address'
+2017-07-11 13:05:42,458 [main] INFO TestCase02 - true | Enter Captcha
+2017-07-11 13:05:48,552 [main] INFO TestCase02 - true | Click to go back to Demo QA Home
+2017-07-11 13:05:48,896 [main] INFO TestCase02 - true | Capture Screen
+2017-07-11 13:05:57,943 [main] INFO TestCase01 - true | Set Page load time out
+2017-07-11 13:05:58,365 [main] INFO TestCase01 - true | Set Implicit wait for web elements
+2017-07-11 13:06:00,545 [main] INFO TestCase01 - true | Open 'Google'
+2017-07-11 13:06:02,843 [main] INFO TestCase01 - true | Maximize the screen
+2017-07-11 13:06:03,205 [main] INFO TestCase01 - true | Capture screen
+2017-07-11 13:06:18,950 [main] INFO TestCase03 - true | Set Page load time out
+2017-07-11 13:06:20,174 [main] INFO TestCase03 - true | Set Implicit wait for web elements
+2017-07-11 13:06:23,545 [main] INFO TestCase03 - true | Open 'NewTours' site
+2017-07-11 13:06:24,334 [main] INFO TestCase03 - true | Maximize the screen
+2017-07-11 13:06:28,977 [main] INFO TestCase03 - true | Click on Register
+2017-07-11 13:06:29,851 [main] INFO TestCase03 - true | Add First Name
+2017-07-11 13:06:30,969 [main] INFO TestCase03 - true | Add Last Name
+2017-07-11 13:06:31,998 [main] INFO TestCase03 - true | Add Phone Number
+2017-07-11 13:06:32,911 [main] INFO TestCase03 - true | Add Email Address
+2017-07-11 13:06:33,807 [main] INFO TestCase03 - true | Add Address Line 1
+2017-07-11 13:06:34,652 [main] INFO TestCase03 - true | Add Address Line 2
+2017-07-11 13:06:35,473 [main] INFO TestCase03 - true | Add City
+2017-07-11 13:06:36,298 [main] INFO TestCase03 - true | Add State
+2017-07-11 13:06:37,203 [main] INFO TestCase03 - true | Add PostalCode
+2017-07-11 13:06:39,900 [main] INFO TestCase03 - true | Select a country
+2017-07-11 13:06:40,070 [main] INFO TestCase03 - true | Capture Registration page screen
+2017-07-11 13:06:59,472 [main] INFO TestCase01 - true | Set Page load time out
+2017-07-11 13:07:00,181 [main] INFO TestCase01 - true | Set Implicit wait for web elements
+2017-07-11 13:07:04,096 [main] INFO TestCase01 - true | Open 'Google'
+2017-07-11 13:07:04,524 [main] INFO TestCase01 - true | Maximize the screen
+2017-07-11 13:07:04,680 [main] INFO TestCase01 - true | Capture screen
+2017-10-10 15:11:18,203 [main] INFO TestCase02 - true | Set Page load time out
+2017-10-10 15:11:18,519 [main] INFO TestCase02 - true | Set Implicit wait for web elements
+2017-10-10 15:11:26,611 [main] INFO TestCase02 - true | Open Demo QA Store
+2017-10-10 15:11:26,872 [main] INFO TestCase02 - true | Maximize the screen
+2017-10-10 15:11:31,251 [main] INFO TestCase02 - true | Click 'My Account'
+2017-10-10 15:11:35,180 [main] INFO TestCase02 - true | Click 'Register' to register
+2017-10-10 15:11:35,862 [main] INFO TestCase02 - true | Give 'Username'
+2017-10-10 15:11:36,581 [main] INFO TestCase02 - true | Give an 'Email Address'
+2017-10-10 15:12:06,914 [main] ERROR TestCase02 - false | Enter Captcha | 
+Unable to locate element: //*[@id='aiowps-captcha-answer']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'BDC8-DX-416P60T', ip: '10.196.71.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\AKASHA~1.MUR\AppData\Local\Temp\rust_mozprofile.WbV3ut3mnmwJ, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=39664.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 69121542-c3a6-480a-a747-bb0c0aec284f
+*** Element info: {Using=xpath, value=//*[@id='aiowps-captcha-answer']}
+2017-10-10 15:12:13,598 [main] INFO TestCase01 - true | Set Page load time out
+2017-10-10 15:12:13,823 [main] INFO TestCase01 - true | Set Implicit wait for web elements
+2017-10-10 15:12:16,770 [main] INFO TestCase01 - true | Open 'Google'
+2017-10-10 15:12:18,458 [main] INFO TestCase01 - true | Maximize the screen
+2017-10-10 15:12:18,921 [main] INFO TestCase01 - true | Capture screen
+2017-10-10 15:12:30,377 [main] INFO TestCase01 - true | Set Page load time out
+2017-10-10 15:12:30,813 [main] INFO TestCase01 - true | Set Implicit wait for web elements
+2017-10-10 15:12:34,249 [main] INFO TestCase01 - true | Open 'Google'
+2017-10-10 15:12:34,774 [main] INFO TestCase01 - true | Maximize the screen
+2017-10-10 15:12:35,039 [main] INFO TestCase01 - true | Capture screen
+2017-10-10 15:12:45,615 [main] INFO TestCase02 - true | Set Page load time out
+2017-10-10 15:12:45,939 [main] INFO TestCase02 - true | Set Implicit wait for web elements
+2017-10-10 15:12:59,553 [main] INFO TestCase02 - true | Open Demo QA Store
+2017-10-10 15:13:01,018 [main] INFO TestCase02 - true | Maximize the screen
+2017-10-10 15:13:04,455 [main] INFO TestCase02 - true | Click 'My Account'
+2017-10-10 15:13:09,425 [main] INFO TestCase02 - true | Click 'Register' to register
+2017-10-10 15:13:10,106 [main] INFO TestCase02 - true | Give 'Username'
+2017-10-10 15:13:10,798 [main] INFO TestCase02 - true | Give an 'Email Address'
+2017-10-10 15:13:41,135 [main] ERROR TestCase02 - false | Enter Captcha | 
+no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='aiowps-captcha-answer']"}
+  (Session info: chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.32 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'BDC8-DX-416P60T', ip: '10.196.71.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.28.455520 (cc17746adff54984afff480136733114c6b3704b), userDataDir=C:\Users\AKASHA~1.MUR\AppData\Local\Temp\scoped_dir38372_5820}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: acac300d4a0b57fa04491328ec8f244e
+*** Element info: {Using=xpath, value=//*[@id='aiowps-captcha-answer']}
+2017-10-10 15:13:47,825 [main] INFO TestCase03 - true | Set Page load time out
+2017-10-10 15:13:48,049 [main] INFO TestCase03 - true | Set Implicit wait for web elements
+2017-10-10 15:13:50,758 [main] INFO TestCase03 - true | Open 'NewTours' site
+2017-10-10 15:13:52,281 [main] INFO TestCase03 - true | Maximize the screen
+2017-10-10 15:13:54,160 [main] INFO TestCase03 - true | Click on Register
+2017-10-10 15:13:54,843 [main] INFO TestCase03 - true | Add First Name
+2017-10-10 15:13:55,492 [main] INFO TestCase03 - true | Add Last Name
+2017-10-10 15:13:56,176 [main] INFO TestCase03 - true | Add Phone Number
+2017-10-10 15:13:56,933 [main] INFO TestCase03 - true | Add Email Address
+2017-10-10 15:13:57,722 [main] INFO TestCase03 - true | Add Address Line 1
+2017-10-10 15:13:58,379 [main] INFO TestCase03 - true | Add Address Line 2
+2017-10-10 15:13:58,965 [main] INFO TestCase03 - true | Add City
+2017-10-10 15:13:59,550 [main] INFO TestCase03 - true | Add State
+2017-10-10 15:14:00,197 [main] INFO TestCase03 - true | Add PostalCode
+2017-10-10 15:14:01,128 [main] INFO TestCase03 - true | Select a country
+2017-10-10 15:14:01,526 [main] INFO TestCase03 - true | Capture Registration page screen
+2017-10-10 15:14:11,820 [main] INFO TestCase03 - true | Set Page load time out
+2017-10-10 15:14:12,101 [main] INFO TestCase03 - true | Set Implicit wait for web elements
+2017-10-10 15:14:15,696 [main] INFO TestCase03 - true | Open 'NewTours' site
+2017-10-10 15:14:16,056 [main] INFO TestCase03 - true | Maximize the screen
+2017-10-10 15:14:22,165 [main] INFO TestCase03 - true | Click on Register
+2017-10-10 15:14:23,016 [main] INFO TestCase03 - true | Add First Name
+2017-10-10 15:14:23,752 [main] INFO TestCase03 - true | Add Last Name
+2017-10-10 15:14:24,369 [main] INFO TestCase03 - true | Add Phone Number
+2017-10-10 15:14:24,977 [main] INFO TestCase03 - true | Add Email Address
+2017-10-10 15:14:25,554 [main] INFO TestCase03 - true | Add Address Line 1
+2017-10-10 15:14:26,138 [main] INFO TestCase03 - true | Add Address Line 2
+2017-10-10 15:14:26,717 [main] INFO TestCase03 - true | Add City
+2017-10-10 15:14:27,250 [main] INFO TestCase03 - true | Add State
+2017-10-10 15:14:27,830 [main] INFO TestCase03 - true | Add PostalCode
+2017-10-10 15:14:29,304 [main] INFO TestCase03 - true | Select a country
+2017-10-10 15:14:29,483 [main] INFO TestCase03 - true | Capture Registration page screen
+2018-05-17 18:52:32,710 [main] INFO TestCase01 - true | Set Page load time out
+2018-05-17 18:52:32,735 [main] INFO TestCase01 - true | Set Implicit wait for web elements
+2018-05-17 18:52:35,773 [main] INFO TestCase01 - true | Open 'Google'
+2018-05-17 18:52:46,027 [main] ERROR TestCase01 - false | Maximize the screen | 
+unknown error: cannot get automation extension
+from unknown error: page could not be found: chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.20 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'BDC8-LX-7171WQX', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.28.455520 (cc17746adff54984afff480136733114c6b3704b), userDataDir=C:\Users\AKASHA~1.MUR\AppData\Local\Temp\scoped_dir7080_23185}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: ba86fcc7587cddba740eaa328b5198a7
+2018-05-17 18:52:49,776 [main] INFO TestCase02 - true | Set Page load time out
+2018-05-17 18:52:49,783 [main] INFO TestCase02 - true | Set Implicit wait for web elements
+2018-05-17 18:53:16,322 [main] INFO TestCase02 - true | Open Demo QA Store
+2018-05-17 18:53:26,457 [main] ERROR TestCase02 - false | Maximize the screen | 
+unknown error: cannot get automation extension
+from unknown error: page could not be found: chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.13 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'BDC8-LX-7171WQX', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.28.455520 (cc17746adff54984afff480136733114c6b3704b), userDataDir=C:\Users\AKASHA~1.MUR\AppData\Local\Temp\scoped_dir1584_31649}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 7c21c1410a677d577196374ccff03e36
+2018-05-17 18:53:27,306 [main] INFO TestCase02 - true | Set Page load time out
+2018-05-17 18:53:27,322 [main] INFO TestCase02 - true | Set Implicit wait for web elements
+2018-05-17 18:53:39,093 [main] INFO TestCase02 - true | Open Demo QA Store
+2018-05-17 18:53:49,219 [main] ERROR TestCase02 - false | Maximize the screen | 
+unknown error: cannot get automation extension
+from unknown error: page could not be found: chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.12 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'BDC8-LX-7171WQX', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.28.455520 (cc17746adff54984afff480136733114c6b3704b), userDataDir=C:\Users\AKASHA~1.MUR\AppData\Local\Temp\scoped_dir1584_31649}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 7c21c1410a677d577196374ccff03e36
+2018-05-17 18:53:49,821 [main] INFO TestCase01 - true | Set Page load time out
+2018-05-17 18:53:49,821 [main] INFO TestCase01 - true | Set Implicit wait for web elements
+2018-05-17 18:53:52,231 [main] INFO TestCase01 - true | Open 'Google'
+2018-05-17 18:54:02,348 [main] ERROR TestCase01 - false | Maximize the screen | 
+unknown error: cannot get automation extension
+from unknown error: page could not be found: chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.12 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'BDC8-LX-7171WQX', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.28.455520 (cc17746adff54984afff480136733114c6b3704b), userDataDir=C:\Users\AKASHA~1.MUR\AppData\Local\Temp\scoped_dir1584_31649}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.139, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 7c21c1410a677d577196374ccff03e36
+2018-05-17 18:54:02,997 [main] INFO TestCase03 - true | Set Page load time out
+2018-05-17 18:54:02,997 [main] INFO TestCase03 - true | Set Implicit wait for web elements
+2018-05-17 18:54:13,440 [main] ERROR TestCase03 - false | Open 'NewTours' site | 
+java.net.SocketException: Connection reset
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'BDC8-LX-7171WQX', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: RemoteWebDriver
+2018-05-17 18:54:19,722 [main] INFO TestCase03 - true | Set Page load time out
+2018-05-17 18:54:19,736 [main] INFO TestCase03 - true | Set Implicit wait for web elements
+2018-05-17 18:54:28,047 [main] ERROR TestCase03 - false | Open 'NewTours' site | 
+java.net.SocketException: Connection reset
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'BDC8-LX-7171WQX', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: RemoteWebDriver
